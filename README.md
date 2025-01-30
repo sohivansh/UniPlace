@@ -1,1 +1,2 @@
-after cloning , while in the parent directory , go to terminal and run npm install mongodb express cors
+after cloning , while in the parent directory , go to terminal and run the command:
+npm install mongodb express cors
